@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1742409403435" clover="3.2.0">
+  <project timestamp="1742409403436" name="All files">
+    <metrics statements="92" coveredstatements="87" conditionals="12" coveredconditionals="10" methods="39" coveredmethods="33" elements="143" coveredelements="130" complexity="0" loc="92" ncloc="92" packages="2" files="18" classes="18"/>
+    <package name="src">
+      <metrics statements="69" coveredstatements="66" conditionals="12" coveredconditionals="10" methods="33" coveredmethods="29"/>
+      <file name="Body.jsx" path="/home/panda/Desktop/hello_react/src/Body.jsx">
+        <metrics statements="21" coveredstatements="20" conditionals="4" coveredconditionals="3" methods="10" coveredmethods="9"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="27" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="20" type="stmt"/>
+        <line num="38" count="20" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="76" type="stmt"/>
+      </file>
+      <file name="Cart.jsx" path="/home/panda/Desktop/hello_react/src/Cart.jsx">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+      <file name="Contact.jsx" path="/home/panda/Desktop/hello_react/src/Contact.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="Header.jsx" path="/home/panda/Desktop/hello_react/src/Header.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="11" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="ListItems.jsx" path="/home/panda/Desktop/hello_react/src/ListItems.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="Rescard.jsx" path="/home/panda/Desktop/hello_react/src/Rescard.jsx">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="77" type="stmt"/>
+        <line num="5" count="77" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="RestaurantCategory.jsx" path="/home/panda/Desktop/hello_react/src/RestaurantCategory.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="11" count="33" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="33" type="stmt"/>
+      </file>
+      <file name="RestaurantMenu.jsx" path="/home/panda/Desktop/hello_react/src/RestaurantMenu.jsx">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="45" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="19" count="33" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="Shimmer.jsx" path="/home/panda/Desktop/hello_react/src/Shimmer.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+      <file name="sum.js" path="/home/panda/Desktop/hello_react/src/sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="23" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4"/>
+      <file name="RestaurantMenuData.js" path="/home/panda/Desktop/hello_react/src/utils/RestaurantMenuData.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+      <file name="UserContext.js" path="/home/panda/Desktop/hello_react/src/utils/UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+      <file name="appStore.js" path="/home/panda/Desktop/hello_react/src/utils/appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="cartMockData.js" path="/home/panda/Desktop/hello_react/src/utils/cartMockData.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="/home/panda/Desktop/hello_react/src/utils/cartSlice.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/home/panda/Desktop/hello_react/src/utils/constants.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+      </file>
+      <file name="fetchMockData.js" path="/home/panda/Desktop/hello_react/src/utils/fetchMockData.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="mockData.js" path="/home/panda/Desktop/hello_react/src/utils/mockData.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
